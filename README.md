@@ -15,7 +15,7 @@ This project combines minimal UI design with intuitive controls for heat and vib
 
 ## 📷 Preview
 
-![Belt UI Preview](./belt.png)
+![Belt UI Preview](belt.jpg)
 
 ## 📁 Tech Stack
 
